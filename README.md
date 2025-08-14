@@ -16,7 +16,4 @@ Technologies
 - MySQL
 
 
-```bash
-javac Main.java
-java Main
-```
+
